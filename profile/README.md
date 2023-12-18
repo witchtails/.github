@@ -18,3 +18,6 @@ Maintain libraries so they keep up-to-date with the Elixir ecosystem.
 
 Develop new features.
 
+# Image credits
+
+XKCD: Dependency by Randall Munroe (CC BY-NC 2.5)
